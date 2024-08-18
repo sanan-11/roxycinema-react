@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/roxycinema-react/static/css/main.3d0a3dbc.css",
+    "main.js": "/roxycinema-react/static/js/main.2f5ab503.js",
+    "static/media/background.jpg": "/roxycinema-react/static/media/background.a46c99e2dd7758c21985.jpg",
+    "static/media/slick.svg": "/roxycinema-react/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/roxycinema-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/roxycinema-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/roxycinema-react/index.html",
+    "static/media/slick.woff": "/roxycinema-react/static/media/slick.295183786cd8a1389865.woff",
+    "main.3d0a3dbc.css.map": "/roxycinema-react/static/css/main.3d0a3dbc.css.map",
+    "main.2f5ab503.js.map": "/roxycinema-react/static/js/main.2f5ab503.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d0a3dbc.css",
+    "static/js/main.2f5ab503.js"
+  ]
+}
